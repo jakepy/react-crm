@@ -1,0 +1,21 @@
+{
+  "clientID": "iGPvwBgsQEtUunpBuksBgtnS",
+  "clientSecret": "O5BW7KeHd7jifOFlt3um0PtmWu66DseBAA--PcB-f36Ig,OKhgqRI4jM0Wa,ZRZiau3WWh-8UuZBy7z,z,hWGnBqNOZZbg5_4OhaZQD7avEnilipOTUlE850WlLHfnxk",
+  "token": "AstraCS:iGPvwBgsQEtUunpBuksBgtnS:7386549bf660f24d9c04ee53e24093919dac38afda06fddf275b8ac7828a0be4"
+}
+
+AstraCS :uWcoFJRknxbcwKUdcYUSWfCN:110dd5a994d2eb9474e5207231ead6f41509498bd963a3dafcc5a90a8d339cb4
+
+## database admin
+client: uWcoFJRknxbcwKUdcYUSWfCN
+
+client secret: ObQKkRL9IFQC5Cd46.+9AljdXw4uBHOIYBrB_Rvc_qaPj+u0rNmo5PPfkceB,J42S82wId7USs_NDq1jRrJ_7vKHUudoM+P,.HYA.5lGR.O5Q6XMlPQWuZ_30wDwxj8u
+
+token: AstraCS:uWcoFJRknxbcwKUdcYUSWfCN:110dd5a994d2eb9474e5207231ead6f41509498bd963a3dafcc5a90a8d339cb4
+
+## User
+SADPWNCDAKyuXDSRFYLTywuR
+
+wX,qPqf-uXd2,DZWHhwi2cOAwqfwaiKLZCzF+mlbSfqNmnOb5WLwQcO3oyypgatY+3F8S9SdyljiyHT+QAAkykEN2nBOMBLeU1T4.BO-6WXtH2g70hmBj1XmzN.msl3B
+
+AstraCS:SADPWNCDAKyuXDSRFYLTywuR:5fdc17c9a6090dde7946a58519a7d3675094a579b86e43649c55794034a30d71

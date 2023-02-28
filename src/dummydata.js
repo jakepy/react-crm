@@ -1,0 +1,37 @@
+const tickets = [
+  {
+    category: 'Monday',
+    color: 'red',
+    title: 'Feed my dog',
+    owner: 'Jacob',
+    avatar: 'https://media.licdn.com/dms/image/C4E03AQF5qyuXgqWH3g/profile-displayphoto-shrink_800_800/0/1627170243882?e=2147483647&v=beta&t=FVfUmwII2OJx9diZNFsbM2E4rGoeWwHzaDLAYm953B0',
+    status: 'done',
+    priority: 5,
+    progress: 40,
+    description: 'Feed jax so he doesnt starve, duh!',
+    timestamp: '2023-02-11T07:3617+0000',
+  },
+  {
+    category: 'Monday',
+    color: 'green',
+    title: 'Play with dog',
+    owner: 'Jacob',
+    avatar: 'https://media.licdn.com/dms/image/C4E03AQF5qyuXgqWH3g/profile-displayphoto-shrink_800_800/0/1627170243882?e=2147483647&v=beta&t=FVfUmwII2OJx9diZNFsbM2E4rGoeWwHzaDLAYm953B0',
+    status: 'done',
+    priority: 5,
+    progress: 75,
+    description: 'Feed jax so he doesnt starve, duh!',
+    timestamp: '2023-02-11T07:3617+0000',
+  },
+  {
+    category: 'Tuesday',
+    title: 'Fight with legos',
+    owner: 'Jacob',
+    avatar: 'https://media.licdn.com/dms/image/C4E03AQF5qyuXgqWH3g/profile-displayphoto-shrink_800_800/0/1627170243882?e=2147483647&v=beta&t=FVfUmwII2OJx9diZNFsbM2E4rGoeWwHzaDLAYm953B0',
+    status: 'working on it',
+    priority: 3,
+    progress: 90,
+    description: 'Feed jax so he doesnt starve, duh!',
+    timestamp: '2023-02-07T07:36:17+0000',
+  }
+]
